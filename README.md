@@ -29,7 +29,6 @@ O jogador poderá escolher entre **4 classes fixas**, cada uma com estilo único
 | Peão      | Corpo a corpo básico      | Espada curta       | Classe inicial com equilíbrio entre ataque e defesa. |
 | Guerreiro | Corpo a corpo pesado      | Espada longa       | Alto dano físico e resistência, mas com velocidade reduzida. |
 | Arqueiro  | Ataque à distância rápido | Arco curto         | Rápido e ágil, com menor defesa. Ideal para combates de longe. |
-| Mago      | Mágica de médio alcance   | Bastão mágico      | Ataques mágicos variados, ideal para causar dano em área. |
 
 - **Troca de classe**: não é possível durante a campanha. A escolha define o estilo de jogo até o final.
 - **Progressão de arma**: cada classe possui apenas **uma arma fixa**, mas com **evoluções desbloqueáveis** via **moedas** (sem loot ou drop de armas).
